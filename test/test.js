@@ -11,6 +11,6 @@ describe('Testing the multiply function', () =>{
     })
 
     it('Tests the return value of multiplying 3,3', () => {
-        assert.equal(multiply(3,3), 4, 'The output of multiplying 3 * 3 is wrong')
+        assert.equal(multiply(3,3), 9, 'The output of multiplying 3 * 3 is wrong')
     })
 })
