@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+/node_modules
+jspm_packages/
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# linters
+.eslintcache/
+.eslintrc
+.eslintrc.yaml
+.eslintrc.json
+.eslintrc.js
+
+#code editor
+.vscode
