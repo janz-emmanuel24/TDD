@@ -3,7 +3,7 @@ import { multiply } from "../src/multiply";
 
 describe('Testing the multiply function', () =>{
     it('Tests the return value of multiplying 3,5', () => {
-        assert.equal(multiply(3,5), 15, 'The output is wrong')
+        assert.equal(multiply(3,5), 15, 'Not right output')
     })
 
     it('Tests the return value of multiplying 2,2', () => {
